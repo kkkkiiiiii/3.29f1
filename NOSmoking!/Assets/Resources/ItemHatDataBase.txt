@@ -1,0 +1,18 @@
+0	CowboyHat	 카우보이모자	FALSE	FALSE
+1	Crown	왕관	FALSE	FALSE
+2	MagicianHat	마법사 모자	FALSE	FALSE
+3	MinerHat	마이너 모자	FALSE	FALSE
+4	Mustache	콧수염	FALSE	FALSE
+5	PajamaHat	파자마 모자	FALSE	FALSE
+6	PilloboxHat	필박스 모자	FALSE	FALSE
+7	PoliceCap	경찰관 모자	FALSE	FALSE
+8	ShowerCap	샤워캡 	FALSE	FALSE
+9	Cap	야구 모자	FALSE	FALSE
+10	VikingHelmet	바이킹헬멧	FALSE	FALSE
+11	luppyHat	루피 모자	FALSE	FALSE
+12	PatrickHat	패트릭 모자	FALSE	FALSE
+13	WitchHat	마녀 모자	FALSE	FALSE
+14	FiremanHat	소방관 모자	FALSE	FALSE
+15	DogEarHat	개귀모자	FALSE	FALSE
+16	LegoHead	레고머리	FALSE	FALSE
+17	Sombrero	솜베로모자	FALSE	FALSE
