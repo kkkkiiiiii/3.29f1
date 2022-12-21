@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/AGXUnity_Demo/AGXUnity_Demo.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
